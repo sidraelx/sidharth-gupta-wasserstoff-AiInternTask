@@ -8,8 +8,8 @@ This project demonstrates how to perform image segmentation and object recogniti
 ## Installation
 
 Install the required libraries using pip
-```
-bash pip install torch torchvision transformers opencv-python-headless matplotlib pandas easyocr
+```bash
+ pip install torch torchvision transformers opencv-python-headless matplotlib pandas easyocr
 ```
 
 ## Usage
